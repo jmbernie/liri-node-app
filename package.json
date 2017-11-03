@@ -1,0 +1,24 @@
+{
+  "name": "twitter-spotify-request-js",
+  "version": "1.0.0",
+  "description": "\u001b[A\u001b[Btwitter, spotify and request npms needed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmbernie/liri-node-app.git"
+  },
+  "author": "jesse bernier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmbernie/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/jmbernie/liri-node-app#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "spotify-web-api-node": "^2.5.0",
+    "twitter": "^1.7.1"
+  }
+}
